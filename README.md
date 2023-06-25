@@ -3,3 +3,4 @@
 - https://gethelios.dev/blog/trace-based-testing-modern-testing-for-the-modern-infrastructure/
 - https://opentelemetry.io/docs/demo/
 - https://github.com/kubeshop/tracetest
+- https://thenewstack.io/trace-based-testing-the-next-step-in-observability/
