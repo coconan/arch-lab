@@ -8,3 +8,4 @@
 - https://www.cncf.io/blog/2021/08/11/trace-based-testing-with-opentelemetry-meet-open-source-malabi/
 - https://medium.com/codex/clean-architecture-for-dummies-df6561d42c94
 - https://medium.com/codex/pragmatic-exception-handling-3831f7ce0980
+- https://lchrusciel.com/api-platform-sylius-api-platform-the-story-of-integration/
